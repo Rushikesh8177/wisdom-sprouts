@@ -1,5 +1,7 @@
  function leader(arr){
     let array =[];
+
+
     let max = arr[arr.length -1];
 
     array.push(max);
